@@ -13,3 +13,12 @@
 [submodule "Lib/Jaywapp.Algorithm"]
 	path = Lib/Jaywapp.Algorithm
 	url = git@github.com:jaywapp/Jaywapp.Algorithm.git
+[submodule "Utility/Jaywapp.AppendableFilter"]
+	path = Utility/Jaywapp.AppendableFilter
+	url = git@github.com:jaywapp/Jaywapp.AppendableFilter.git
+[submodule "Utility/Jaywapp.Utility.BuilderWizard"]
+	path = Utility/Jaywapp.Utility.BuilderWizard
+	url = git@github.com:jaywapp/Jaywapp.Utility.BuilderWizard.git
+[submodule "Utility/ExcelToResxConverter"]
+	path = Utility/ExcelToResxConverter
+	url = git@github.com:jaywapp/ExcelToResxConverter.git
