@@ -1,6 +1,3 @@
-[submodule "Toy/Jaywapp.Toasket"]
-	path = Toy/Jaywapp.Toasket
-	url = git@github.com-git3:jaywapp/Jaywapp.Toasket.git
 [submodule "Toy/FMRookieScouter"]
 	path = Toy/FMRookieScouter
 	url = git@github.com:jaywapp/FMRookieScouter.git
