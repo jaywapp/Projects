@@ -4,3 +4,12 @@
 [submodule "Toy/Jaywapp.Toasket"]
 	path = Toy/Jaywapp.Toasket
 	url = git@github.com:jaywapp/Jaywapp.Toasket.git
+[submodule "Lib/Jaywapp.UI"]
+	path = Lib/Jaywapp.UI
+	url = git@github.com:jaywapp/Jaywapp.UI.git
+[submodule "Lib/Jaywapp.Infastructure"]
+	path = Lib/Jaywapp.Infastructure
+	url = git@github.com:jaywapp/Jaywapp.Infastructure.git
+[submodule "Lib/Jaywapp.Algorithm"]
+	path = Lib/Jaywapp.Algorithm
+	url = git@github.com:jaywapp/Jaywapp.Algorithm.git
