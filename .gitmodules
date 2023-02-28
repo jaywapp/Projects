@@ -1,3 +1,6 @@
 [submodule "Toy/FMRookieScouter"]
 	path = Toy/FMRookieScouter
 	url = git@github.com:jaywapp/FMRookieScouter.git
+[submodule "Toy/Jaywapp.Toasket"]
+	path = Toy/Jaywapp.Toasket
+	url = git@github.com:jaywapp/Jaywapp.Toasket.git
