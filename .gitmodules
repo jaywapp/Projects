@@ -22,3 +22,6 @@
 [submodule "Utility/ExcelToResxConverter"]
 	path = Utility/ExcelToResxConverter
 	url = git@github.com:jaywapp/ExcelToResxConverter.git
+[submodule "Toy/proto-shop-finder"]
+	path = Toy/proto-shop-finder
+	url = git@github.com:jaywapp/proto-shop-finder.git
