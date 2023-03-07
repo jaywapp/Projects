@@ -25,6 +25,15 @@
 #### :link: Links 
 - Project : https://github.com/jaywapp/proto-shop-finder
 - Site : https://jaywapp.github.io/proto-shop-finder/
+---
+### :pushpin: sijang-2-manchan
+#### :closed_book: Description
+전국 시장 맛집 정보
+#### :black_nib: Skill
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+#### :link: Links 
+- Project : https://github.com/jaywapp/sijang-2-manchan
+- Site : https://jaywapp.github.io/sijang-2-manchan/
 ## Library
 ### :pushpin: Jaywapp.Infrastructure
 #### :closed_book: Description
